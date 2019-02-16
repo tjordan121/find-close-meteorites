@@ -10,4 +10,4 @@ First, install pipenv. Then:
 '''
 pipenv install
 pipenv run "[ython find_meteors.py"
-''']
+'''
